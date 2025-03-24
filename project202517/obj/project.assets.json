@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\Projetos\\projeto01\\project202517\\project202517.csproj",
+      "projectUniqueName": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\Projetos\\projeto01\\Desenvolvimento_web\\project202517\\project202517.csproj",
       "projectName": "project202517",
-      "projectPath": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\Projetos\\projeto01\\project202517\\project202517.csproj",
+      "projectPath": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\Projetos\\projeto01\\Desenvolvimento_web\\project202517\\project202517.csproj",
       "packagesPath": "C:\\Users\\arthu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\Projetos\\projeto01\\project202517\\obj\\",
+      "outputPath": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\Projetos\\projeto01\\Desenvolvimento_web\\project202517\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\arthu\\AppData\\Roaming\\NuGet\\NuGet.Config"

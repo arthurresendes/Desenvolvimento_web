@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\Projetos\\projeto01\\project202517\\project202517.csproj": {}
+    "c:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\Projetos\\projeto01\\Desenvolvimento_web\\project202517\\project202517.csproj": {}
   },
   "projects": {
-    "c:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\Projetos\\projeto01\\project202517\\project202517.csproj": {
+    "c:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\Projetos\\projeto01\\Desenvolvimento_web\\project202517\\project202517.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\Projetos\\projeto01\\project202517\\project202517.csproj",
+        "projectUniqueName": "c:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\Projetos\\projeto01\\Desenvolvimento_web\\project202517\\project202517.csproj",
         "projectName": "project202517",
-        "projectPath": "c:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\Projetos\\projeto01\\project202517\\project202517.csproj",
+        "projectPath": "c:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\Projetos\\projeto01\\Desenvolvimento_web\\project202517\\project202517.csproj",
         "packagesPath": "C:\\Users\\arthu\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\Projetos\\projeto01\\project202517\\obj\\",
+        "outputPath": "c:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Programação\\Trabalhos\\Desenvolvimento web\\Projetos\\projeto01\\Desenvolvimento_web\\project202517\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\arthu\\AppData\\Roaming\\NuGet\\NuGet.Config"
